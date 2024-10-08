@@ -145,6 +145,8 @@ export type LogEvents = {
   }
   'post:mute': {}
   'post:unmute': {}
+  'post:pin': {}
+  'post:unpin': {}
   'profile:follow:sampled': {
     didBecomeMutual: boolean | undefined
     followeeClout: number | undefined
@@ -225,4 +227,8 @@ export type LogEvents = {
   'test:gate1:sometimes': {}
   'test:gate2:always': {}
   'test:gate2:sometimes': {}
+
+  'tmd:share': {}
+  'tmd:download': {}
+  'tmd:post': {}
 }
