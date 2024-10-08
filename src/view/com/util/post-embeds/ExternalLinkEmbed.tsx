@@ -70,7 +70,7 @@ export const ExternalLinkEmbed = ({
               }}
               source={{uri: imageUri}}
               accessibilityIgnoresInvertColors
-              accessibilityLabel={link.title}
+              accessibilityLabel={undefined}
               accessibilityHint={undefined}
             />
             <MediaInsetBorder
