@@ -675,7 +675,7 @@ msgstr "ვიდეოს ჩატვირთვისას მოხდა 
 
 #: src/components/dialogs/nuxs/TenMillion/index.tsx:250
 #~ msgid "An error occurred while saving the image!"
-#~ msgstr ""
+#~ msgstr "სურათის შენახვისას მოხდა შეცდომა!"
 
 #: src/components/StarterPack/ShareDialog.tsx:79
 #~ msgid "An error occurred while saving the image."
