@@ -679,41 +679,41 @@ msgstr "ვიდეოს ჩატვირთვისას მოხდა 
 
 #: src/components/StarterPack/ShareDialog.tsx:79
 #~ msgid "An error occurred while saving the image."
-#~ msgstr ""
+#~ msgstr "სურათის შენახვისას მოხდა შეცდომა."
 
 #: src/components/StarterPack/QrCodeDialog.tsx:71
 #: src/components/StarterPack/ShareDialog.tsx:80
 msgid "An error occurred while saving the QR code!"
-msgstr ""
+msgstr "QR კოდის შენახვისას მოხდა შეცდომა!"
 
 #: src/view/com/composer/videos/SelectVideoBtn.tsx:87
 msgid "An error occurred while selecting the video"
-msgstr ""
+msgstr "ვიდეოს არჩევისას მოხდა შეცდომა"
 
 #: src/components/dms/MessageMenu.tsx:134
 #~ msgid "An error occurred while trying to delete the message. Please try again."
-#~ msgstr ""
+#~ msgstr "შეტყობინების წაშლის მცდელობისას მოხდა შეცდომა. გთხოვთ სცადოთ ხელახლა."
 
 #: src/screens/StarterPack/StarterPackScreen.tsx:336
 #: src/screens/StarterPack/StarterPackScreen.tsx:358
 msgid "An error occurred while trying to follow all"
-msgstr ""
+msgstr "გამოწერის მცდელობისას მოხდა შეცდომა"
 
 #: src/view/com/composer/state/video.ts:449
 msgid "An error occurred while uploading the video."
-msgstr ""
+msgstr "ვიდეოს ატვირთვისას მოხდა შეცდომა."
 
 #: src/lib/moderation/useReportOptions.ts:28
 msgid "An issue not included in these options"
-msgstr ""
+msgstr "საკითხი არ შედის ამ ვარიანტებში"
 
 #: src/components/dms/dialogs/NewChatDialog.tsx:36
 msgid "An issue occurred starting the chat"
-msgstr ""
+msgstr "ჩეთის დაწყებისას წარმოიშვა პრობლემა"
 
 #: src/components/dms/dialogs/ShareViaChatDialog.tsx:47
 msgid "An issue occurred while trying to open the chat"
-msgstr ""
+msgstr "ჩეთის გახსნის მცდელობისას წარმოიშვა პრობლემა"
 
 #: src/components/hooks/useFollowMethods.ts:35
 #: src/components/hooks/useFollowMethods.ts:50
@@ -722,174 +722,174 @@ msgstr ""
 #: src/view/com/profile/FollowButton.tsx:36
 #: src/view/com/profile/FollowButton.tsx:46
 msgid "An issue occurred, please try again."
-msgstr ""
+msgstr "წარმოიშვა პრობლემა, გთხოვთ, სცადოთ ხელახლა."
 
 #: src/screens/Onboarding/StepInterests/index.tsx:185
 msgid "an unknown error occurred"
-msgstr ""
+msgstr "მოხდა შეცდომა"
 
 #: src/components/moderation/ModerationDetailsDialog.tsx:158
 #: src/components/moderation/ModerationDetailsDialog.tsx:154
 msgid "an unknown labeler"
-msgstr ""
+msgstr "უცნობი ეტიკეტის მიმნიჭებელი"
 
 #: src/components/WhoCanReply.tsx:295
 #: src/view/com/notifications/FeedItem.tsx:231
 #: src/view/com/notifications/FeedItem.tsx:324
 msgid "and"
-msgstr ""
+msgstr "და"
 
 #: src/screens/Onboarding/index.tsx:29
 #: src/screens/Onboarding/state.ts:81
 msgid "Animals"
-msgstr ""
+msgstr "ცხოველები"
 
 #: src/view/com/util/post-embeds/GifEmbed.tsx:136
 msgid "Animated GIF"
-msgstr ""
+msgstr "ანიმაციური GIF"
 
 #: src/lib/moderation/useReportOptions.ts:33
 msgid "Anti-Social Behavior"
-msgstr ""
+msgstr "ანტისოციალური ქცევა"
 
 #: src/view/screens/Search/Search.tsx:346
 #: src/view/screens/Search/Search.tsx:347
 msgid "Any language"
-msgstr ""
+msgstr "ნებისმიერი ენა"
 
 #: src/view/com/composer/threadgate/ThreadgateBtn.tsx:51
 msgid "Anybody can interact"
-msgstr ""
+msgstr "ნებისმიერს შეუძლია ურთიერთქმედება"
 
 #: src/view/screens/LanguageSettings.tsx:92
 msgid "App Language"
-msgstr ""
+msgstr "აპლიკაციის ენა"
 
 #: src/view/screens/AppPasswords.tsx:223
 msgid "App password deleted"
-msgstr ""
+msgstr "აპლიკაციის პაროლი წაიშალა"
 
 #: src/view/com/modals/AddAppPasswords.tsx:138
 msgid "App Password names can only contain letters, numbers, spaces, dashes, and underscores."
-msgstr ""
+msgstr "აპლიკაციის პაროლის სახელები შეიძლება შეიცავდეს მხოლოდ ასოებს, ციფრებს, შუალედებს, ტირეებსა და ქვედა ტირეებს."
 
 #: src/view/com/modals/AddAppPasswords.tsx:103
 msgid "App Password names must be at least 4 characters long."
-msgstr ""
+msgstr "აპლიკაციის პაროლის სახელები უნდა იყოს მინიმუმ 4 სიმბოლო."
 
 #: src/view/screens/Settings/index.tsx:663
 msgid "App password settings"
-msgstr ""
+msgstr "აპლიკაციის პაროლის პარამეტრები"
 
 #: src/Navigation.tsx:285
 #: src/view/screens/AppPasswords.tsx:188
 #: src/view/screens/Settings/index.tsx:672
 msgid "App Passwords"
-msgstr ""
+msgstr "აპლიკაციის პაროლები"
 
 #: src/components/moderation/LabelsOnMeDialog.tsx:148
 #: src/components/moderation/LabelsOnMeDialog.tsx:151
 msgid "Appeal"
-msgstr ""
+msgstr "გასაჩივრება"
 
 #: src/components/moderation/LabelsOnMeDialog.tsx:243
 msgid "Appeal \"{0}\" label"
-msgstr ""
+msgstr "გაასაჩივრეთ \"{0}\" ეტიკეტი"
 
 #: src/components/moderation/LabelsOnMeDialog.tsx:233
 #: src/screens/Messages/components/ChatDisabled.tsx:91
 msgid "Appeal submitted"
-msgstr ""
+msgstr "საჩივარი გაიგზავნა"
 
 #: src/components/moderation/LabelsOnMeDialog.tsx:193
 #~ msgid "Appeal submitted."
-#~ msgstr ""
+#~ msgstr "საჩივარი გაიგზავნა."
 
 #: src/screens/Messages/components/ChatDisabled.tsx:51
 #: src/screens/Messages/components/ChatDisabled.tsx:53
 #: src/screens/Messages/components/ChatDisabled.tsx:99
 #: src/screens/Messages/components/ChatDisabled.tsx:101
 msgid "Appeal this decision"
-msgstr ""
+msgstr "გაასაჩივრეთ ეს გადაწყვეტილება"
 
 #: src/screens/Settings/AppearanceSettings.tsx:89
 #: src/view/screens/Settings/index.tsx:484
 msgid "Appearance"
-msgstr ""
+msgstr "გარეგნობა"
 
 #: src/view/screens/Settings/index.tsx:475
 msgid "Appearance settings"
-msgstr ""
+msgstr "გარეგნობის პარამეტრები"
 
 #: src/Navigation.tsx:325
 msgid "Appearance Settings"
-msgstr ""
+msgstr "გარეგნობის პარამეტრები"
 
 #: src/screens/Feeds/NoSavedFeedsOfAnyType.tsx:47
 #: src/screens/Home/NoFeedsPinned.tsx:93
 msgid "Apply default recommended feeds"
-msgstr ""
+msgstr "გამოიყენეთ ნაგულისხმევი რეკომენდებული არხები"
 
 #: src/screens/StarterPack/StarterPackScreen.tsx:610
 #~ msgid "Are you sure you want delete this starter pack?"
-#~ msgstr ""
+#~ msgstr "დარწმუნებული ხართ, რომ გსურთ წაშალოთ ეს საწყისი პაკეტი?"
 
 #: src/view/screens/AppPasswords.tsx:274
 msgid "Are you sure you want to delete the app password \"{name}\"?"
-msgstr ""
+msgstr "დარწმუნებული ხართ, რომ გსურთ წაშალოთ აპის პაროლი \"{name}\"?"
 
 #: src/components/dms/MessageMenu.tsx:123
 #~ msgid "Are you sure you want to delete this message? The message will be deleted for you, but not for other participants."
-#~ msgstr ""
+#~ msgstr "დარწმუნებული ხართ, რომ გსურთ ამ შეტყობინების წაშლა? შეტყობინება წაიშლება თქვენთვის, მაგრამ არა სხვა მონაწილეებისთვის."
 
 #: src/components/dms/MessageMenu.tsx:149
 msgid "Are you sure you want to delete this message? The message will be deleted for you, but not for the other participant."
-msgstr ""
+msgstr "დარწმუნებული ხართ, რომ გსურთ ამ შეტყობინების წაშლა? შეტყობინება წაიშლება თქვენთვის, მაგრამ არა სხვა მონაწილისთვის."
 
 #: src/screens/StarterPack/StarterPackScreen.tsx:621
 msgid "Are you sure you want to delete this starter pack?"
-msgstr ""
+msgstr "დარწმუნებული ხართ, რომ გსურთ ამ საწყისი პაკეტის წაშლა?"
 
 #: src/components/dms/ConvoMenu.tsx:189
 #~ msgid "Are you sure you want to leave this conversation? Your messages will be deleted for you, but not for other participants."
-#~ msgstr ""
+#~ msgstr "დარწმუნებული ხართ, რომ გსურთ ამ საუბრის დატოვება? თქვენი შეტყობინებები წაიშლება თქვენთვის, მაგრამ არა სხვა მონაწილეებისთვის."
 
 #: src/components/dms/LeaveConvoPrompt.tsx:48
 msgid "Are you sure you want to leave this conversation? Your messages will be deleted for you, but not for the other participant."
-msgstr ""
+msgstr "დარწმუნებული ხართ, რომ გსურთ ამ საუბრის დატოვება? თქვენი შეტყობინებები წაიშლება თქვენთვის, მაგრამ არა სხვა მონაწილისთვის."
 
 #: src/view/com/feeds/FeedSourceCard.tsx:313
 msgid "Are you sure you want to remove {0} from your feeds?"
-msgstr ""
+msgstr "დარწმუნებული ხართ, რომ გსურთ წაშალოთ {0} თქვენი არხებიდან?"
 
 #: src/components/FeedCard.tsx:313
 msgid "Are you sure you want to remove this from your feeds?"
-msgstr ""
+msgstr "დარწმუნებული ხართ, რომ გსურთ წაშალოთ ეს თქვენი არხებიდან?"
 
 #: src/view/com/composer/Composer.tsx:840
 msgid "Are you sure you'd like to discard this draft?"
-msgstr ""
+msgstr "დარწმუნებული ხართ, რომ გსურთ ამ მონახაზის გაუქმება?"
 
 #: src/components/dialogs/MutedWords.tsx:433
 msgid "Are you sure?"
-msgstr ""
+msgstr "დარწმუნებული ხართ?"
 
 #: src/view/com/composer/select-language/SuggestedLanguage.tsx:60
 msgid "Are you writing in <0>{0}</0>?"
-msgstr ""
+msgstr "<0>{0}</0>-ში წერთ?"
 
 #: src/screens/Onboarding/index.tsx:23
 #: src/screens/Onboarding/state.ts:82
 msgid "Art"
-msgstr ""
+msgstr "ხელოვნება"
 
 #: src/view/com/modals/SelfLabel.tsx:124
 msgid "Artistic or non-erotic nudity."
-msgstr ""
+msgstr "მხატვრული თუ არაეროტიკული სიშიშვლე."
 
 #: src/screens/Signup/StepHandle.tsx:173
 msgid "At least 3 characters"
-msgstr ""
+msgstr "მინიმუმ 3 სიმბოლო"
 
 #: src/components/dms/MessagesListHeader.tsx:75
 #: src/components/moderation/LabelsOnMeDialog.tsx:290
@@ -909,131 +909,131 @@ msgstr ""
 #: src/screens/StarterPack/Wizard/index.tsx:298
 #: src/view/com/util/ViewHeader.tsx:87
 msgid "Back"
-msgstr ""
+msgstr "უკან"
 
 #: src/screens/Onboarding/StepSuggestedAccounts/index.tsx:144
 #~ msgid "Based on your interest in {interestsText}"
-#~ msgstr ""
+#~ msgstr "თქვენი ინტერესიდან გამომდინარე {interestsText}"
 
 #: src/view/screens/Settings/index.tsx:441
 msgid "Basics"
-msgstr ""
+msgstr "საფუძვლები"
 
 #: src/components/dialogs/BirthDateSettings.tsx:106
 msgid "Birthday"
-msgstr ""
+msgstr "დაბადების დღე"
 
 #: src/view/screens/Settings/index.tsx:347
 msgid "Birthday:"
-msgstr ""
+msgstr "დაბადების დღე:"
 
 #: src/screens/Profile/Header/ProfileHeaderStandard.tsx:269
 #: src/view/com/profile/ProfileMenu.tsx:341
 msgid "Block"
-msgstr ""
+msgstr "დაბლოკვა"
 
 #: src/components/dms/ConvoMenu.tsx:188
 #: src/components/dms/ConvoMenu.tsx:192
 msgid "Block account"
-msgstr ""
+msgstr "ანგარიშის დაბლოკვა"
 
 #: src/view/com/profile/ProfileMenu.tsx:280
 #: src/view/com/profile/ProfileMenu.tsx:287
 msgid "Block Account"
-msgstr ""
+msgstr "ანგარიშის დაბლოკვა"
 
 #: src/view/com/profile/ProfileMenu.tsx:324
 msgid "Block Account?"
-msgstr ""
+msgstr "დაიბლოკოს ანგარიში?"
 
 #: src/view/screens/ProfileList.tsx:634
 msgid "Block accounts"
-msgstr ""
+msgstr "დაბლოკეთ ანგარიშები"
 
 #: src/view/screens/ProfileList.tsx:738
 msgid "Block list"
-msgstr ""
+msgstr "დაბლოკვის სია"
 
 #: src/view/screens/ProfileList.tsx:733
 msgid "Block these accounts?"
-msgstr ""
+msgstr "დაიბლოკოს ეს ანგარიშები?"
 
 #: src/view/com/util/post-embeds/QuoteEmbed.tsx:84
 msgid "Blocked"
-msgstr ""
+msgstr "დაბლოკილია"
 
 #: src/screens/Moderation/index.tsx:277
 msgid "Blocked accounts"
-msgstr ""
+msgstr "დაბლოკილი ანგარიშები"
 
 #: src/Navigation.tsx:149
 #: src/view/screens/ModerationBlockedAccounts.tsx:106
 msgid "Blocked Accounts"
-msgstr ""
+msgstr "დაბლოკილი ანგარიშები"
 
 #: src/view/com/profile/ProfileMenu.tsx:336
 msgid "Blocked accounts cannot reply in your threads, mention you, or otherwise interact with you."
-msgstr ""
+msgstr "დაბლოკილი ანგარიშები ვერ გიპასუხებენ თქვენს თემატურ გზავნილებში, ვერ მოგახსენებენ ან სხვაგვარად ურთიერთობენ თქვენთან."
 
 #: src/view/screens/ModerationBlockedAccounts.tsx:114
 msgid "Blocked accounts cannot reply in your threads, mention you, or otherwise interact with you. You will not see their content and they will be prevented from seeing yours."
-msgstr ""
+msgstr "დაბლოკილი ანგარიშები ვერ გიპასუხებენ თქვენს თემატურ გზავნილებში, ვერ მოგახსენებენ ან შეძლებენ თქვენთან ურთიერთობას. თქვენ ვერ იხილავთ მათ შინაარსს და მათ არ ექნებათ თქვენი შინაარსის ნახვის უფლება."
 
 #: src/view/com/post-thread/PostThread.tsx:412
 msgid "Blocked post."
-msgstr ""
+msgstr "პოსტი დაიბლოკა."
 
 #: src/screens/Profile/Sections/Labels.tsx:173
 msgid "Blocking does not prevent this labeler from placing labels on your account."
-msgstr ""
+msgstr "დაბლოკვა არ უშლის ხელს ამ ლეიბლიერს, განათავსოს იარლიყები თქვენს ანგარიშზე."
 
 #: src/view/screens/ProfileList.tsx:735
 msgid "Blocking is public. Blocked accounts cannot reply in your threads, mention you, or otherwise interact with you."
-msgstr ""
+msgstr "დაბლოკვა საჯაროა. დაბლოკილი ანგარიშები ვერ გიპასუხებენ თქვენს თემატურ გზავნილებში, ვერ მოგახსენებენ ან შეძლებენ სხვაგვარად ურთიერთობას."
 
 #: src/view/com/profile/ProfileMenu.tsx:333
 msgid "Blocking will not prevent labels from being applied on your account, but it will stop this account from replying in your threads or interacting with you."
-msgstr ""
+msgstr "დაბლოკვა ხელს არ შეუშლის ლეიბლების გამოყენებას თქვენს ანგარიშზე, მაგრამ ეს შეაჩერებს ამ ანგარიშს თქვენს გზავნილებში პასუხის გაცემას ან თქვენთან ინტერაქციას."
 
 #: src/view/com/auth/SplashScreen.web.tsx:172
 msgid "Blog"
-msgstr ""
+msgstr "ბლოგი"
 
 #: src/view/com/auth/server-input/index.tsx:86
 #: src/view/com/auth/server-input/index.tsx:88
 msgid "Bluesky"
-msgstr ""
+msgstr "Bluesky"
 
 #: src/view/com/auth/server-input/index.tsx:154
 #~ msgid "Bluesky is an open network where you can choose your hosting provider. Custom hosting is now available in beta for developers."
-#~ msgstr ""
+#~ msgstr "Bluesky არის ღია ქსელი, სადაც შეგიძლიათ აირჩიოთ თქვენი ჰოსტინგის პროვაიდერი. მორგებული ჰოსტინგი უკვე ხელმისაწვდომია ბეტა რეჟიმში დეველოპერებისთვის."
 
 #: src/view/com/auth/server-input/index.tsx:151
 msgid "Bluesky is an open network where you can choose your hosting provider. If you're a developer, you can host your own server."
-msgstr ""
+msgstr "Bluesky არის ღია ქსელი, სადაც შეგიძლიათ აირჩიოთ თქვენი ჰოსტინგის პროვაიდერი. თუ დეველოპერი ხართ, შეგიძლიათ გაუშვათ საკუთარ სერვერზე."
 
 #: src/components/ProgressGuide/List.tsx:55
 msgid "Bluesky is better with friends!"
-msgstr ""
+msgstr "Bluesky უკეთესია მეგობრებთან ერთად!"
 
 #: src/view/com/auth/onboarding/WelcomeDesktop.tsx:80
 #: src/view/com/auth/onboarding/WelcomeMobile.tsx:82
 #~ msgid "Bluesky is flexible."
-#~ msgstr ""
+#~ msgstr "Bluesky არის მოქნილი."
 
 #: src/view/com/auth/onboarding/WelcomeDesktop.tsx:69
 #: src/view/com/auth/onboarding/WelcomeMobile.tsx:71
 #~ msgid "Bluesky is open."
-#~ msgstr ""
+#~ msgstr "Bluesky ღიაა."
 
 #: src/view/com/auth/onboarding/WelcomeDesktop.tsx:56
 #: src/view/com/auth/onboarding/WelcomeMobile.tsx:58
 #~ msgid "Bluesky is public."
-#~ msgstr ""
+#~ msgstr "Bluesky საჯაროა."
 
 #: src/components/dialogs/nuxs/TenMillion/index.tsx:206
 #~ msgid "Bluesky now has over 10 million users, and I was #{0}!"
-#~ msgstr ""
+#~ msgstr "Bluesky-ს ახლა 10 მილიონზე მეტი მომხმარებელი ჰყავს და მე ვიყავი #{0}!"
 
 #: src/components/StarterPack/ProfileStarterPacks.tsx:283
 msgid "Bluesky will choose a set of recommended accounts from people in your network."
